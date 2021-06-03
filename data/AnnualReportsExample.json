@@ -1,0 +1,294 @@
+{
+ "entity_type_group_name": "Corporation",
+ "registration_number": "0510506",
+ "registered_name": "THE S/L/A/M COLLABORATIVE, INC.",
+ "entity_principal_address": {
+  "address_line_1": "80 Glastonbury Blvd",
+  "address_line_2": "",
+  "city": "Glastonbury",
+  "county": "",
+  "state": {
+   "name": "Connecticut",
+   "abbreviation": "CT"
+  },
+  "zip_code": "06033",
+  "sort_code": "",
+  "country": {
+   "name": "United States",
+   "abbreviation": "US",
+   "iso3": "USA"
+  }
+ },
+ "mailing_address_same_as_principal_address": true,
+ "entity_mailing_address": {
+  "address_line_1": "",
+  "address_line_2": "",
+  "city": "",
+  "county": "",
+  "state": {
+   "name": "",
+   "abbreviation": ""
+  },
+  "zip_code": "",
+  "sort_code": "",
+  "country": {
+   "name": "",
+   "abbreviation": "",
+   "iso3": ""
+  }
+ },
+ "registered_agent_is_an_individual": false,
+ "registered_agent_name": "",
+ "registered_agent_first_name": "",
+ "registered_agent_middle_name": "",
+ "registered_agent_last_name": "",
+ "registered_agent_suffix": "",
+ "registered_agent_business_entity_name": "Registered Agents Inc.",
+ "registered_agent_address": {
+  "address_line_1": "1942 Broadway Street",
+  "address_line_2": "STE 314C",
+  "city": "Boulder",
+  "county": "Boulder",
+  "state": {
+   "name": "Colorado",
+   "abbreviation": "CO"
+  },
+  "zip_code": "80302",
+  "sort_code": "",
+  "country": {
+   "name": "United States",
+   "abbreviation": "US",
+   "iso3": "USA"
+  }
+ },
+ "registered_agent_mailing_address_same_as_street_address": true,
+ "registered_agent_mailing_address": {
+  "address_line_1": "",
+  "address_line_2": "",
+  "city": "",
+  "county": "",
+  "state": {
+   "name": "",
+   "abbreviation": ""
+  },
+  "zip_code": "",
+  "sort_code": "",
+  "country": {
+   "name": "",
+   "abbreviation": "",
+   "iso3": ""
+  }
+ },
+ "signer_first_name": "Daniel",
+ "signer_middle_name": "",
+ "signer_last_name": "Kantor",
+ "signer_suffix": "",
+ "signer_title": "Treasurer",
+ "signer_address": {
+  "address_line_1": "60 Chase Hollow Lane",
+  "address_line_2": "",
+  "city": "Glastonbury",
+  "county": "",
+  "state": {
+   "name": "Connecticut",
+   "abbreviation": "CT"
+  },
+  "zip_code": "06033",
+  "sort_code": "",
+  "country": {
+   "name": "United States",
+   "abbreviation": "US",
+   "iso3": "USA"
+  }
+ },
+
+ "personnel": {
+  "officers": [{
+   "title": "President",
+   "first_name": "Robert",
+   "middle_name": "F",
+   "last_name": "Pulito",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "89 Sunny Reach Drive",
+    "address_line_2": "",
+    "city": "West Hartford",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06117",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },{
+   "title": "Secretary",
+   "first_name": "Kemp",
+   "middle_name": "",
+   "last_name": "Morhardt",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "1842 Boulevard",
+    "address_line_2": "",
+    "city": "West Hartford",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06117",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },{
+   "title": "Treasurer",
+   "first_name": "Daniel",
+   "middle_name": "S",
+   "last_name": "Kantor",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "60 Chase Hollow Lane",
+    "address_line_2": "",
+    "city": "Glastonbury",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06033",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  }],
+  "directors": [  {
+   "title": "Director",
+   "first_name": "Gregory",
+   "middle_name": "",
+   "last_name": "Coles",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "7220 Mezzanine Way",
+    "address_line_2": "",
+    "city": "Long Beach",
+    "county": "",
+    "state": {
+     "name": "California",
+     "abbreviation": "CA"
+    },
+    "zip_code": "90808",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },{
+   "title": "Director",
+   "first_name": "Richard",
+   "middle_name": "A",
+   "last_name": "Polvino",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "53 Farnham Street",
+    "address_line_2": "",
+    "city": "Belmont",
+    "county": "",
+    "state": {
+     "name": "Massachusetts",
+     "abbreviation": "MA"
+    },
+    "zip_code": "02478",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },{
+   "title": "Chair",
+   "first_name": "Richard",
+   "middle_name": "T",
+   "last_name": "Connell",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "88 Stancliff Road",
+    "address_line_2": "",
+    "city": "Glastonbury",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06033",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },{
+   "title": "Director",
+   "first_name": "Steven",
+   "middle_name": "W",
+   "last_name": "Ansel",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "1134 Neipsic Road",
+    "address_line_2": "",
+    "city": "Glastonbury",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06033",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  },  {
+   "title": "Director",
+   "first_name": "Terri",
+   "middle_name": "L",
+   "last_name": "Frink",
+   "suffix": "",
+   "home_address": {
+    "address_line_1": "4 Esther Lane",
+    "address_line_2": "",
+    "city": "Colchester",
+    "county": "",
+    "state": {
+     "name": "Connecticut",
+     "abbreviation": "CT"
+    },
+    "zip_code": "06415",
+    "sort_code": "",
+    "country": {
+     "name": "United States",
+     "abbreviation": "US",
+     "iso3": "USA"
+    }
+   }
+  }]
+ },
+ "filing_fee": 10
+}
